@@ -2,9 +2,9 @@
 
 **CS + MIS Graduate | Python · SQL · Power Apps · Power BI | AI & Data Projects | Coppell, TX**
 
-I'm a software developer and data solutions builder based in **Irving, TX**, actively seeking entry-level roles in **Software Engineering**, **AI/ML**, and **Data Analytics / Power BI**.
+I'm a software developer and data solutions builder based in **Coppell, TX**, actively seeking entry-level roles in **Software Engineering**, **AI/ML**, and **Data Analytics / Power BI**.
 
-I hold a **B.S. in Computer Science** from GMR Institute of Technology, India, and an **M.S. in Management Information Technology** from Dallas Baptist University, TX and I bring real-world experience building and deploying production tools — including a live IT operations dashboard used by a university IT team.
+I hold a **B.S. in Computer Science** from GMR Institute of Technology, India, and an **M.S. in Management Information Technology** from Dallas Baptist University, Dallas, TX. I bring real-world experience building and deploying production tools — including a live IT operations dashboard used by a university IT team.
 
 ---
 
