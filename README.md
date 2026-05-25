@@ -13,7 +13,7 @@ I hold a **B.S. in Computer Science** from GMR Institute of Technology, India, a
 | Project | Tech Stack | Live Demo |
 |---|---|---|
 | 🤖 AI Resume Analyzer | Python · Streamlit · OpenAI API | [Live Demo](https://veronica-ai-resume.streamlit.app/) |
-| 📊 IT Operations Intelligence Dashboard | Power BI · DAX · AI Visuals · Forecasting | *Publishing soon* |
+| 📊 IT Operations Intelligence Dashboard | Power BI · DAX · AI Visuals · Forecasting |[Live Demo]([your-url-here](https://app.powerbi.com/view?r=eyJrIjoiNWE1ZjFjZDEtMTM3Yi00Mzg1LWI4NDgtZjU5ZGVlMDA3OGVjIiwidCI6IjFjZGYzNGYzLTA4ZjktNDNlYi05ZDRmLTJiYTRhMWQyMGE2ZiJ9)) |
 | 🎫 IT Ticket Sentiment & Priority Analyzer | Python · NLTK · scikit-learn · Streamlit | [Live Demo](https://veronica-ticket-analyzer.streamlit.app/) |
 | 💬 IT Support RAG Chatbot | Python · LangChain · OpenAI · Streamlit | *Coming soon* |
 | 🖥️ IT Ticketing Dashboard | Microsoft Power Apps · SharePoint Online | DBU IT Dept |
